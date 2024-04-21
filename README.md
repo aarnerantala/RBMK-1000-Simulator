@@ -1,4 +1,4 @@
-# RBMK-1000
+# RBMK-1000 Simulator
 RBMK-1000 Simulator built in VB.NET
 NOTICE: RBMK-1000 Simulator is FREEWARE so if anyone is selling this other than me then REPORT him in my Discord server (Scroll down a little bit)
 
