@@ -5,13 +5,13 @@ NOTICE: RBMK-1000 Simulator is FREEWARE so if anyone is selling this other than 
 # Release date
 There is no release date yet, but I will work on it as much as I can!
 
-# INCLUDES
+# Includes
 - Rod Control
 - Turbine Control
 - Water Pump Control
   And many more!
 
-# DISCORD
+# Discord
 
 RBMK-1000 Simulator Discord: https://discord.gg/PdwFpxmNsT
 My Discord user: aane_21
